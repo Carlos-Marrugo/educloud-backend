@@ -1,3 +1,8 @@
+## Notion 
+En el notion hay mas informacion detallada del proyecto.
+[Presiona aqui!](https://www.notion.so/backend-plataforma-estudiantil-297921c725a481fd822adce70bed1a1d?source=copy_link
+)
+
 ## 🧱 Tech Stack Principal
 
 Stack base utilizado para el desarrollo y despliegue de los microservicios (Java, Node.js, Cloud-Native, Event-Driven).
