@@ -1,3 +1,7 @@
+## Review de Arquitectura
+<img width="1917" height="884" alt="image" src="https://github.com/user-attachments/assets/403c7de0-b5b4-4a3f-833c-93dad42a22a1" />
+
+
 ## Notion 
 En el notion hay mas informacion detallada del proyecto.
 [Presiona aqui!](https://www.notion.so/backend-plataforma-estudiantil-297921c725a481fd822adce70bed1a1d?source=copy_link
