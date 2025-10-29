@@ -1,5 +1,6 @@
 ## Review de Arquitectura
-<img width="1917" height="884" alt="image" src="https://github.com/user-attachments/assets/403c7de0-b5b4-4a3f-833c-93dad42a22a1" />
+<img width="855" height="429" alt="image" src="https://github.com/user-attachments/assets/83d6dfd2-b26a-4c79-9bfa-7fd747138f38" />
+
 
 
 ## Notion 
