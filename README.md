@@ -1,6 +1,9 @@
 ## Review de Arquitectura
 <img width="855" height="429" alt="image" src="https://github.com/user-attachments/assets/83d6dfd2-b26a-4c79-9bfa-7fd747138f38" />
 
+## Fases de cada Microservicio
+<img width="1739" height="995" alt="diagram-export-01-11-2025-14_07_16" src="https://github.com/user-attachments/assets/4a441688-eb02-4e95-bd80-65971b55d0f5" />
+
 
 
 ## Notion 
